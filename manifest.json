@@ -1,0 +1,21 @@
+{
+  "name": "Speak Dog",
+  "short_name": "Speak Dog",
+  "description": "Converse com seu pet usando o poder da IA.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2d3748",
+  "theme_color": "#8b5cf6",
+  "icons": [
+    {
+      "src": "https://placehold.co/192x192/8b5cf6/ffffff?text=🐾",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://placehold.co/512x512/8b5cf6/ffffff?text=🐾",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
